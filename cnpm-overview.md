@@ -21,17 +21,14 @@ Vai trò: Người trực tiếp kèm cặp, hỗ trợ học tập cho một ho
 - Truy cập và chia sẻ tài liệu học tập chính thống.
 #### 3. Khoa/Chủ nhiệm bộ môn
 Vai trò: Giám sát hoạt động của chương trình ở cấp bộ môn/khoa, đảm bảo chất lượng và phân bổ nguồn lực.
-Mối quan tâm:
 - Theo dõi danh sách tutor – sinh viên trong bộ môn.
 - Xem báo cáo đánh giá chất lượng, tiến độ của từng nhóm.
 #### 4. Phòng Đào tạo (Academic Affairs Office)
 Vai trò: Xem báo cáo và đánh giá tổng thể chương trình đào tạo, để phân bổ nguồn lực học tập trong toàn trường.
-Mối quan tâm:
 - Sử dụng dữ liệu đánh giá để tối ưu phân bổ tutor/mentor.
 - Theo dõi chất lượng và hiệu quả chương trình.
 #### 5. Phòng Công tác Sinh viên:
 Vai trò: Đánh giá kết quả hoạt động ngoại khóa và hỗ trợ chính sách sinh viên.
-Mối quan tâm:
 - Truy xuất dữ liệu tham gia chương trình của sinh viên.
 - Sử dụng kết quả để cộng điểm rèn luyện.
 - Căn cứ dữ liệu đánh giá và phản hồi để xét học bổng, hỗ trợ.
